@@ -1,6 +1,6 @@
 # Pyshiny
 
-This is my demo for a geospatial dashboard.
+This is the first demo for a geospatial dashboard.
 To install shiny in python and run the app the following code can be applied.
 
 ```sh
